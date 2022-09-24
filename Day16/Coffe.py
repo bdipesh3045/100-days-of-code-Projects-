@@ -36,7 +36,7 @@ def check():
         print("Your coffe is being made:")
         bool=True
     else:
-        print(f"Ensufficient resource. Please refill {data}")
+        print(f"Ensufficient resource. Please refill {data}\n Choose another type of coffee!")
         bool=False
         drink_coffe=False
     if bool==True:
