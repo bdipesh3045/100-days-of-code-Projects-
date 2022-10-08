@@ -3,4 +3,5 @@ This is a basic program that plot the data of covid 19 infection in the year 202
 
 ![plt2](https://user-images.githubusercontent.com/111185281/194680979-ad9f7545-d360-4612-a74e-19dee2c52a03.jpg)
 
+
 Thank you!
